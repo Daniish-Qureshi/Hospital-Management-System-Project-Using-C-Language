@@ -6,7 +6,7 @@ It provides a simple menu-driven interface for performing all hospital-related o
 
 ## 📸 Screenshots
 
-![Hospital](https://github.com/Daniish-Qureshi/Hospital-Management-System-Project-Using-C-Language/blob/main/image2.jpg)
+![Hospital]()
 
 ## 🛠️ Tech Stack
 
