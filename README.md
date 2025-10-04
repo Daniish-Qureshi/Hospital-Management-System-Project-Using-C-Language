@@ -6,11 +6,11 @@ It provides a simple menu-driven interface for performing all hospital-related o
 
 ## 📸 Screenshots
 
-![Hospital]()
+![Hospital](https://github.com/Daniish-Qureshi/Hospital-Management-System-Project-Using-C-Language/blob/main/Image.jpg)
 
 ## 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/c-E34F26?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-language-E34F26?style=for-the-badge&logo=c&logoColor=white)
 
 ## ✨ Features
 
